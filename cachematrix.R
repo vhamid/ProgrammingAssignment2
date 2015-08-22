@@ -1,5 +1,5 @@
 ## The purpose of these functions is to create a matrix
-## wrapper which can cache its inverse and the cached
+## wrapper which can cache its inverse and uses the cached
 ## value when available
 
 ## Creates a matrix wrapper which has the ability to
